@@ -93,7 +93,8 @@ body {
     list-style: none;
     padding: 0;
     -webkit-transition: left 0.5s;
-    transition: left 0.5s; }
+    transition: left 0.5s;
+    left: 0; }
   .carousel__dots-wrap {
     display: -webkit-box;
     display: -ms-flexbox;
